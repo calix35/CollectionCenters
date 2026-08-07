@@ -2,7 +2,7 @@
 
 This repository contains a version of the project for running optimization algorithms on an agricultural collection center location instance.
 
-The purpose of this version is to allow another user to download the repository, use the included instance or replace it with their own data, run the algorithms, and generate experimental results. The manuscript, final paper figures, final tables, and statistical analysis scripts are not included in this lightweight version.
+The purpose of this version is to allow another user to download the repository, use the included instance or replace it with their own data, run the algorithms, and generate experimental results.
 
 ## Repository structure
 
@@ -12,7 +12,6 @@ The purpose of this version is to allow another user to download the repository,
 │   ├── raw/             # Original reference data
 │   └── processed/       # Minimum processed instance required by the algorithms
 ├── src/                 # Scripts for data construction and algorithm execution
-├── problema_1_centros_acopio_tamaulipas.md
 ├── requirements.txt
 ├── .gitignore
 └── README.md
