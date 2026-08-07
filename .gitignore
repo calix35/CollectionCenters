@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Generated outputs
+figures/
+tables/
+paper/
+data/results/
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.spl
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
